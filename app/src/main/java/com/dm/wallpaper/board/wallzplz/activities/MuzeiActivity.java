@@ -1,9 +1,9 @@
-package com.dm.wallpaper.board.sample.activities;
+package com.hamzabadar.wallzplz.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.wallpaper.board.activities.WallpaperBoardMuzeiActivity;
-import com.dm.wallpaper.board.sample.services.MuzeiService;
+import com.hamzabadar.wallzplz.services.MuzeiService;
 
 public class MuzeiActivity extends WallpaperBoardMuzeiActivity {
 

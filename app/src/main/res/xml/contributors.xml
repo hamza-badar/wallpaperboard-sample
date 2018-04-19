@@ -2,24 +2,9 @@
 <resources>
 
     <contributor
-        name="Name 1"
-        contribution="Contribution 1, contribution 2"
-        image="https://avatars1.githubusercontent.com/u/23138905?v=3&amp;s=300"
-        link="" />
-    <contributor
-        name="Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3"
-        image=""
-        link="" />
-    <contributor
-        name="Another Name"
-        contribution="Contribution 1"
-        image=""
-        link="http://plus.google.com/..." />
-    <contributor
-        name="Another Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3, contribution 4, contribution 5, contribution 6"
-        image=""
-        link="http://www.link.com" />
-
+        name="Hamza Badar"
+        contribution="you can blame me for wallpapers :p"
+        image="https://avatars1.githubusercontent.com/u/18106583?v=3&amp;s=300"
+        link="https://github.com/hamza-badar" />
+    
 </resources>

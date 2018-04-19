@@ -1,10 +1,10 @@
-package com.dm.wallpaper.board.sample.activities;
+package com.hamzabadar.wallzplz.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.wallpaper.board.activities.WallpaperBoardSplashActivity;
 import com.dm.wallpaper.board.activities.configurations.SplashScreenConfiguration;
-import com.dm.wallpaper.board.sample.R;
+import com.hamzabadar.wallzplz.R;
 
 public class SplashActivity extends WallpaperBoardSplashActivity {
 

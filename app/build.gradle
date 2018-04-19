@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.dm.wallpaper.board.sample"
+        applicationId "com.hamzabadar.wallzplz"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1
