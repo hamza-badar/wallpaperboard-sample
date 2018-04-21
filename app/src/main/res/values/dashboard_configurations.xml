@@ -41,6 +41,9 @@
     * If disabled user only able to apply wallpaper from dashboard -->
     <bool name="enable_wallpaper_download">true</bool>
 
+    <!-- Splash Screen Title -->
+    <string name="splash_screen_title">Welcome :)</string>
+
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
     <!-- Navigation view header image
