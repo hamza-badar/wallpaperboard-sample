@@ -42,7 +42,7 @@
     <bool name="enable_wallpaper_download">true</bool>
 
     <!-- Splash Screen Title -->
-    <string name="splash_screen_title">Welcome :)</string>
+    <string name="splash_screen_title">#Wallzplz</string>
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
