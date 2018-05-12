@@ -19,10 +19,10 @@
     <!-- CONFIG: MUZEI -->
 
     <!-- Muzei art source name -->
-    <string name="muzei_art_source_name">Randumz</string>
+    <string name="muzei_art_source_name">Wallzplz</string>
 
     <!-- Muzei art source description -->
-    <string name="muzei_art_source_desc">wallpapers inspired from random stuff</string>
+    <string name="muzei_art_source_desc">Wallpapers inspired from random stuff</string>
 
     <!-- Muzei base color -->
     <color name="muzei_color">#F44336</color>
@@ -53,11 +53,11 @@
     * ex: navigation_view_header.png -> navigation_view_header
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="navigation_view_header">https://raw.githubusercontent.com/hamza-badar/wallzplz_stuff/master/hamza-logo.png</string>
+    <string name="navigation_view_header">drawer_image</string>
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title"></string>
+    <string name="navigation_view_header_title">#Wallzplz</string>
 
     <!-- CONFIG: ABOUT -->
 
