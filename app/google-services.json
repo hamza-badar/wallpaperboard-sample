@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "210204064859",
+    "firebase_url": "https://wallzplz.firebaseio.com",
+    "project_id": "wallzplz",
+    "storage_bucket": "wallzplz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210204064859:android:5f1c58d04d886cde",
+        "android_client_info": {
+          "package_name": "com.hamzabadar.wallzplz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210204064859-4p4cd5r0sjlqj0d596ma7eg3iq64qb4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDZQFWh2GSJ1gyjs-QBFHVlIeDuoAXok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
